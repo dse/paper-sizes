@@ -1,5 +1,7 @@
 # Paper Sizes
 
+A selection of common and/or important paper sizes.
+
 [Source](https://en.wikipedia.org/wiki/Paper_size)
 
 ## A series
