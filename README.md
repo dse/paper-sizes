@@ -88,21 +88,21 @@ displayed in italics.
 | Tabloid                    |     11 in |     17 in |        279.4 |         431.8 |
 | Legal                      |    8.5 in |     14 in |        215.9 |         355.6 |
 | Government Letter          |      8 in |   10.5 in |        203.2 |         266.7 |
-| ANSI E                     |     34 in |     44 in |        863.6 |        1117.6 |
-| ANSI D                     |     22 in |     34 in |        558.8 |         863.6 |
-| ANSI C                     |     17 in |     22 in |        431.8 |         558.8 |
-| ANSI B                     |     11 in |     17 in |        279.4 |         431.8 |
-| ANSI A                     |    8.5 in |     11 in |        215.9 |         279.4 |
 | Personal Envelope          |    6.5 in |  3.625 in |        *165* |        *92.1* |
 | #10 Business Envelope      |    9.5 in |  4.125 in |        *241* |         *105* |
 | Filofax Personal           |   3.75 in |   6.75 in |       *95.2* |         *171* |
-| Travelers Notebook         | *4.33* in | *8.27* in |          110 |           210 |
-| JIS B4                     | *10.1* in | *14.3* in |          257 |           364 |
-| JIS B5                     | *7.17* in | *10.1* in |          182 |           257 |
 | Field Notes                |    3.5 in |    5.5 in |         89.9 |         139.7 |
 | 3 × 5 Index Card           |      5 in |      3 in |          127 |          76.2 |
 | 4 × 6 Index Card           |      6 in |      4 in |        15.24 |         101.6 |
 | 5 × 8 Index Card           |      8 in |      5 in |        20.32 |          12.7 |
 | 6 × 6 Index Card           |      8 in |      6 in |        20.32 |         15.24 |
 | Business Card (Nor. Amer.) |    3.5 in |      2 in |         89.9 |          50.8 |
+| ANSI E                     |     34 in |     44 in |        863.6 |        1117.6 |
+| ANSI D                     |     22 in |     34 in |        558.8 |         863.6 |
+| ANSI C                     |     17 in |     22 in |        431.8 |         558.8 |
+| ANSI B                     |     11 in |     17 in |        279.4 |         431.8 |
+| ANSI A                     |    8.5 in |     11 in |        215.9 |         279.4 |
+| Travelers Notebook         | *4.33* in | *8.27* in |          110 |           210 |
+| JIS B4                     | *10.1* in | *14.3* in |          257 |           364 |
+| JIS B5                     | *7.17* in | *10.1* in |          182 |           257 |
 | Business Card (Internat.)  | *3.39* in | *2.13* in |           86 |            54 |
