@@ -67,8 +67,8 @@ of their corresponding A and B sizes.
 
 ## Other Metric
 
-| Name                      | Width | Height | Inch Width | Inch Height |          Notional Wid. |           Notional Ht. |
-|:--------------------------|------:|-------:|-----------:|------------:|-----------------------:|-----------------------:|
+| Name                      | Width | Height | Inch Width | Inch Height | Notional Wid.          | Notional Ht.           |
+|:--------------------------|------:|-------:|-----------:|------------:|:----------------------:|:----------------------:|
 | Travelers Notebook        |   110 |    210 |  *4.33* in |   *8.27* in |                        |                        |
 | Business Card (Internat.) |    86 |     54 |  *3.39* in |   *2.13* in |                        |                        |
 | JIS B4                    |   257 |    364 |  *10.1* in |   *14.3* in | $250\sqrt[4]{9\over8}$ | $250\sqrt[4]{9\over2}$ |
