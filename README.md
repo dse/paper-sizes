@@ -67,12 +67,12 @@ of their corresponding A and B sizes.
 
 ## Other Metric
 
-| Name                      | Width | Height | Inch Width | Inch Height |
-|:--------------------------|------:|-------:|-----------:|------------:|
-| Travelers Notebook        |   110 |    210 |  *4.33* in |   *8.27* in |
-| JIS B4                    |   257 |    364 |  *10.1* in |   *14.3* in |
-| JIS B5                    |   182 |    257 |  *7.17* in |   *10.1* in |
-| Business Card (Internat.) |    86 |     54 |  *3.39* in |   *2.13* in |
+| Name                      | Width | Height | Inch Width | Inch Height |          Notional Wid. |           Notional Ht. |
+|:--------------------------|------:|-------:|-----------:|------------:|-----------------------:|-----------------------:|
+| Travelers Notebook        |   110 |    210 |  *4.33* in |   *8.27* in |                        |                        |
+| Business Card (Internat.) |    86 |     54 |  *3.39* in |   *2.13* in |                        |                        |
+| JIS B4                    |   257 |    364 |  *10.1* in |   *14.3* in | $250\sqrt[4]{9\over8}$ | $250\sqrt[4]{9\over2}$ |
+| JIS B5                    |   182 |    257 |  *7.17* in |   *10.1* in | $125\sqrt[4]{9\over2}$ | $250\sqrt[4]{9\over8}$ |
 
 ## North American
 
@@ -106,3 +106,4 @@ displayed in italics.
 | ANSI C                     |     17 in |     22 in |        431.8 |         558.8 |
 | ANSI B                     |     11 in |     17 in |        279.4 |         431.8 |
 | ANSI A                     |    8.5 in |     11 in |        215.9 |         279.4 |
+
