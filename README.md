@@ -97,6 +97,7 @@ displayed in italics.
 | #10 Business Envelope      |    9.5 in |  4.125 in |        *241* |         *105* |
 | Filofax Personal           |   3.75 in |   6.75 in |       *95.2* |         *171* |
 | Travelers Notebook         | *4.33* in | *8.27* in |          110 |           210 |
+| JIS B4                     | *10.1* in | *14.3* in |          257 |           364 |
 | JIS B5                     | *7.17* in | *10.1* in |          182 |           257 |
 | Field Notes                |    3.5 in |    5.5 in |         89.9 |         139.7 |
 | 3 × 5 Index Card           |      5 in |      3 in |          127 |          76.2 |
