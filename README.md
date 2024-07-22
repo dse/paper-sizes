@@ -53,13 +53,13 @@ exact are displayed in italics.
 
 | Name              |  Width |  Height | Metric Width | Metric Height |
 |:------------------|-------:|--------:|-------------:|--------------:|
-| Letter            | 8.5 in |   11 in |   215.9 mm |    279.4 mm |
-| Ledger            |  17 in |   11 in |   431.8 mm |    279.4 mm |
-| Tabloid           |  11 in |   17 in |   279.4 mm |    431.8 mm |
-| Legal             | 8.5 in |   14 in |   215.9 mm |    355.6 mm |
-| Government Letter |   8 in | 10.5 in |   203.2 mm |    266.7 mm |
-| ANSI E            |  34 in |   44 in |   863.6 mm |   1117.6 mm |
-| ANSI D            |  22 in |   34 in |   558.8 mm |    863.6 mm |
-| ANSI C            |  17 in |   22 in |   431.8 mm |    558.8 mm |
-| ANSI B            |  11 in |   17 in |   279.4 mm |    431.8 mm |
-| ANSI A            | 8.5 in |   11 in |   215.9 mm |    279.4 mm |
+| Letter            | 8.5 in |   11 in |   215.9  |    279.4  |
+| Ledger            |  17 in |   11 in |   431.8  |    279.4  |
+| Tabloid           |  11 in |   17 in |   279.4  |    431.8  |
+| Legal             | 8.5 in |   14 in |   215.9  |    355.6  |
+| Government Letter |   8 in | 10.5 in |   203.2  |    266.7  |
+| ANSI E            |  34 in |   44 in |   863.6  |   1117.6  |
+| ANSI D            |  22 in |   34 in |   558.8  |    863.6  |
+| ANSI C            |  17 in |   22 in |   431.8  |    558.8  |
+| ANSI B            |  11 in |   17 in |   279.4  |    431.8  |
+| ANSI A            | 8.5 in |   11 in |   215.9  |    279.4  |
